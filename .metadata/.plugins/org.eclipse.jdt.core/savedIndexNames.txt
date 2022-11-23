@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\BELLIDO\Dev\WORKSPACE\Backend\microservicios\priceservice\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3460880079.index
+2997279590.index
